@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ahmed Shaban
+Backend developer from Egypt. I build REST and GraphQL APIs with Node.js and Express. Open to remote roles and relocation to the Gulf.
 
-<!--
-**ahmedshaban42/ahmedshaban42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stack
+Node.js, Express, MongoDB/Mongoose, MySQL/Sequelize, JWT, Joi, Cloudinary, Postman. Learning TypeScript and NestJS.
 
-Here are some ideas to get you started:
+## Projects
+- [Job Search App](https://github.com/ahmedshaban42/Job-Search-App): GraphQL + REST, three roles, email notifications.
+- [MediBook](https://github.com/ahmedshaban42/MediBook): medical booking API with conflict-free scheduling and OTP.
+- [Saraha App](https://github.com/ahmedshaban42/saraha-app): anonymous messaging with JWT and OTP.
+- [Task Management API](https://github.com/ahmedshaban42/meta-task): JWT access/refresh tokens, rate limiting, audit logs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+LinkedIn: linkedin.com/in/ahmed-shaban-9896a4242 | ahmed4455ho@gmail.com
